@@ -9,35 +9,35 @@
 <body>
     <h1>Calculadora</h1>
     <div class="container">
-        <p class="resultado" id="resultado">resultado</p>
+        <p class="resultado" id="resultado"></p>
         <table>
             <tr>
-                <td>c</td>
-                <td>÷</td>
-                <td>x</td>
-                <td>-</td>
+                <td id="limpar" onclick="limparResultado()">c</td>
+                <td id="operador-divisao" onclick="digitarDivisao()">÷</td>
+                <td id="operador-multiplicacao" onclick="digitarMultiplicacao()">x</td>
+                <td id="operador-subtracao" onclick="digitarSubtracao()">-</td>
             </tr>
             <tr>
                 <td id="numero-7" onclick="digitarNumero7()">7</td>
                 <td id="numero-8" onclick="digitarNumero8()">8</td>
-                <td>9</td>
-                <td rowspan="2">+</td>
+                <td id="numero-9" onclick="digitarNumero9()">9</td>
+                <td id="operador-adicao" onclick="digitarAdicao()" rowspan="2">+</td>
             </tr>
             <tr>
-                <td>4</td>
-                <td>5</td>
-                <td>6</td>
+                <td id="numero-4" onclick="digitarNumero4()">4</td>
+                <td id="numero-5" onclick="digitarNumero5()">5</td>
+                <td id="numero-6" onclick="digitarNumero6()">6</td>
         
             </tr>
             <tr>
-                <td>1</td>
-                <td>2</td>
-                <td>3</td>
-                <td rowspan="2">=</td>
+                <td id="numero-1" onclick="digitarNumero1()">1</td>
+                <td id="numero-2" onclick="digitarNumero2()">2</td>
+                <td id="numero-3" onclick="digitarNumero3()">3</td>
+                <td id="operador-igual" onclick="digitarResultado()" rowspan="2">=</td>
             </tr>
             <tr>
-                <td colspan="2">0</td>
-                <td>.</td>
+                <td id="numero-0" onclick="digitarNumero0()" colspan="2">0</td>
+                <td id="ponto-de-milhar" onclick="digitarPontoDeMilhar()">.</td>
             </tr>
         </table>
     </div>

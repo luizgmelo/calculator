@@ -38,6 +38,7 @@ h1 {
 
 .container > .resultado {
     background-color: white;
+    height: 30px;
     font-size: 1.5em;
     text-align: right;
     margin: 20px auto;
