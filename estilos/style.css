@@ -1,0 +1,91 @@
+@charset "UTF-8";
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div {
+    height: 300px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+body {
+    background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+h1 {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+.container {
+    background-color: rgba(60, 106, 232, 0.5);
+    width: 250px;
+    padding: 15px;
+    height: 370px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.2);
+}
+
+.container > .resultado {
+    background-color: white;
+    font-size: 1.5em;
+    text-align: right;
+    margin: 20px auto;
+    border: 2px solid black;
+}
+
+table {
+    color: white;
+    width: 251px;
+    height: 300px;
+    margin: auto;
+    border-collapse: collapse;
+    outline: 1px solid black;
+    border-radius: 0px 0px 10px 10px;
+    overflow: hidden;
+}
+
+table td, table input {
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+table td:hover {
+    background-color: #3CC5E8;
+    transition: 0.3s background-color;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+}
+
+footer > p {
+    padding: 10px;
+    text-align: center;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+}
+
+footer a:hover {
+    color: gray;
+}
