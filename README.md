@@ -21,7 +21,7 @@ Uma calculadora simples, responsiva para diferentes dispositivos, criada com HTM
 - Uma calculadora simples, responsiva que pode ser utilizada normalmente para fazer cálculos de forma prática e rápida.
 
 ## Como acessar o projeto
-- Esse projeto está hospedado no Github Pages você pode acessar <a href="https://luizgmelo.github.io/calculadora/">cliclando aqui</a>.
+- Esse projeto está hospedado no Github Pages você pode acessar <a href="https://luizgmelo.github.io/calculadora/ target="_blank">cliclando aqui</a>.
 
 ## Como usar o projeto depois de aberto
 O uso é simples.
