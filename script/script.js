@@ -1,7 +1,11 @@
 let output = document.getElementById('result');
 
-function clearResult(){
+function clearResult() {
     output.innerHTML = '';
+}
+
+function backSpace() {
+    output.innerHTML = output.innerHTML.slice(0,-1) ;
 }
 
 function insert(digit) {
