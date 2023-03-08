@@ -2,10 +2,10 @@
     <img src="https://user-images.githubusercontent.com/88911920/206695043-d1837d66-019f-442b-ac3c-3a91204f38c3.png">
 </div>
 
-<h1 align="center">Calculadora</h1>
+<h1 align="center">Calculator</h1>
 
 <p align="center">
-Uma calculadora simples, responsiva para diferentes dispositivos, criada com HTML, CSS e JavaScript.
+A simple calculator, responsive for differents screens, built with HTML, CSS e JavaScript.
 </p>
 
 <div align="center">
@@ -17,28 +17,30 @@ Uma calculadora simples, responsiva para diferentes dispositivos, criada com HTM
 ![gif-calculadora-computador](https://user-images.githubusercontent.com/88911920/206693363-06ef0763-4936-40cf-88c1-43ff9ca7ee5b.gif)
 ![gif-calculadora-celular](https://user-images.githubusercontent.com/88911920/206693367-f3229d35-b495-4316-a1d1-68df105da789.gif)
 
-## O que é o projeto
-- Uma calculadora simples, responsiva que pode ser utilizada normalmente para fazer cálculos de forma prática e rápida.
+## What is the project?
+- A simple calculator, responsive that can be used normally to make calculations in a practical and fast way.
 
-## Como acessar o projeto
-- Esse projeto está hospedado no Github Pages você pode acessar <a href="https://luizgmelo.github.io/calculadora/">cliclando aqui</a>.
+## How acess the project?
+- This project is hosted on Github Pages acess <a href="https://luizgmelo.github.io/calculadora/">click here</a>.
 
-## Como usar o projeto depois de aberto
-O uso é simples.
-**Você utilizará apenas o mouse ou se estiver no celular os dedos.**
-1. Passo: clique no número para adicionar na tela da calculadora. 
-2. Passo: faça o mesmo com o operador (+,-,x,÷) para adicionar na tela da calculadora.
+## How use the project after open?
+Use is simple.
+**You will only use the mouse or if you are on your cell phone, your fingers.
+**
+1. Step: click on the number to add in calculator. 
+2. Step: do it the first step for operations (+,-,x,÷) for add in calculator.
  
- **Assim você consegue fazer a combinação de cálculos que preferir**
+ **So you can do the combination of calculations you prefer**
  
-3. Passo: clique no botão igual para receber o resultado.
+3. Step: click on button equal for receive the result.
 
-**Pronto, a calculadora te retornará o resultado do cálculo na tela.**
+**Ready, the calculator return the value on screen.**
 
-## Tecnologias
+## Technologies
 ### ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white) 
-HTML é a linguagem de marcação padrão para criação e estruturação de páginas da internet, consiste em uma série de elementos que define ao navegador o conteúdo e que significado ele tem.
+HTML is a markup language for creation and structure web pages, consist in consists of a series of elements that define for the browser the content and the meaning it has.
 ### ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white)
-CSS é uma linguagem de marcação padrão para estilização de páginas da internet, descreve como deve ser mostrado os elementos HTML. Ela permite que a página não seja apenas preto e branco e a adaptação desses elementos para diferentes tipos e tamanhos de telas.
+CSS is a markup language for style web pages, describle for browser how should be show the HTML. It makes it possible that the pages don't be only black and white and addapt for differents screens sizes.
 ### ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
-JavaScript é a linguagem de programação mais popular da internet, ela garante toda interação de páginas da internet com o úsuario, fornecendo assim uma melhor experiência e possibilitando os sites dinâmicos da Web.
+JavaScript is the most popular language programming from web, it is the every interactivite, providing a better experience and providing the dynamic web sites.
+
