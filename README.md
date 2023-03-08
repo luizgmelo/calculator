@@ -14,8 +14,10 @@ A simple calculator, responsive for differents screens, built with HTML, CSS e J
 
 <br>
 
-![gif-calculadora-computador](https://user-images.githubusercontent.com/88911920/206693363-06ef0763-4936-40cf-88c1-43ff9ca7ee5b.gif)
-![gif-calculadora-celular](https://user-images.githubusercontent.com/88911920/206693367-f3229d35-b495-4316-a1d1-68df105da789.gif)
+![gif-calculator-desktop](https://user-images.githubusercontent.com/88911920/223722732-b79cd0f0-01e3-4fb3-bd64-514bc36dbe94.gif)
+![git-calculator-mobile](https://user-images.githubusercontent.com/88911920/223722736-9a9e046e-1e1b-4e6b-b81c-268747665ae1.gif)
+
+
 
 ## What is the project?
 - A simple calculator, responsive that can be used normally to make calculations in a practical and fast way.
