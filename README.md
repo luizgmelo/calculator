@@ -5,7 +5,7 @@
 <h1 align="center">Calculator</h1>
 
 <p align="center">
-A simple calculator, responsive for differents screens, built with HTML, CSS e JavaScript.
+A simple calculator, responsive for differents screens, built with HTML, CSS and JavaScript.
 </p>
 
 <div align="center">
