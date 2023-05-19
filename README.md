@@ -23,7 +23,7 @@ A simple calculator, responsive for differents screens, built with HTML, CSS and
 - A simple calculator, responsive that can be used normally to make calculations in a practical and fast way.
 
 ## How acess the project?
-- This project is hosted on Github Pages acess <a href="https://luizgmelo.github.io/calculadora/">click here</a>.
+- This project is hosted on Github Pages acess <a href="https://luizgmelo.github.io/calculator/">click here</a>.
 
 ## How use the project after open?
 Use is simple.
