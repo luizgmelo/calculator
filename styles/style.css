@@ -39,10 +39,10 @@ h1 {
 .container > .result {
     background-color: white;
     height: 30px;
-    font-size: 1.5em;
-    text-align: right;
+    font-size: 1.4em;
     margin: 20px auto;
     border: 2px solid black;
+    overflow: hidden;
 }
 
 table {
