@@ -9,6 +9,11 @@ function backSpace() {
 }
 
 function insert(digit) {
+    length = output.innerText.length
+    if (length >= 10) {
+        alert("max length is 10")
+        return
+    }
     output.innerHTML += digit;
 }
 
