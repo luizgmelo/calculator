@@ -21,3 +21,20 @@ function insert(digit) {
 function calculate() {
     output.innerHTML = eval(output.innerHTML);
 }
+
+function useKeyboard(event) {
+    const keyDown = event.key
+    const nums = [0,1,2,3,4,5,6,7,8,9]
+    const operators = '+-*x/.' 
+    if (keyDown === 'Backspace') {
+        return backSpace()
+    }
+    if (keyDown === 'Enter') {
+        return calculate()
+    }
+    if (keyDown in nums || operators.includes(keyDown)) {
+        return insert(keyDown)
+    }
+}
+
+document.addEventListener("keydown", useKeyboard)
